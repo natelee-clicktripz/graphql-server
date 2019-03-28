@@ -1,4 +1,5 @@
 node_modules/
 .DS_STORE
-db/
+db/*
 package-lock.json
+yarn.lock

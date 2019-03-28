@@ -1,6 +1,5 @@
 import Sequelize from 'sequelize';
 require('dotenv').config();
-console.log('test');
 
 const sequelize = new Sequelize(
     process.env.DATABASE,
